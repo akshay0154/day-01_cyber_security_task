@@ -29,4 +29,4 @@ Nmap scan report for 192.168.202.128
 Not shown: 1000 closed tcp ports (reset)
 
 ## uplode file
--> inculding the screenshot and the output file result.txt i already uploaded
+-> inculding the screenshot and the output file result.txt i already uploaded in this Github repository.
